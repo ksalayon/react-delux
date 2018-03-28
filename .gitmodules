@@ -1,0 +1,3 @@
+[submodule "src/vendor/seamless-immutable"]
+	path = src/vendor/seamless-immutable
+	url = https://github.com/rtfeldman/seamless-immutable.git
